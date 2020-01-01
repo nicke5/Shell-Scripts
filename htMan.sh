@@ -53,8 +53,6 @@ printhelp(){
 cat << EOF
 =========================================================================
 
-confight.sh
-
 Use this function to enable/disable Hyperthreading or show the current status.
 
 Uasge: 
